@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 in CodeSandbox!" test="gg" />
+  <HelloWorld msg="Hello Vue 3 in CodeSandbox is nice !" test="gg" />
 </template>
 
 <script>
