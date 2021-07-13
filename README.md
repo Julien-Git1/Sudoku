@@ -1,6 +1,6 @@
-# Just a test of tools. !!
+# Just a test of tools.
 
-## Project setup 1
+## Project setup
 
 ```
 yarn install
